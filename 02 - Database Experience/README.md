@@ -20,3 +20,4 @@
 - Os mecânicos possuem código, nome, endereço e especialidade
 - Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 
+![Mecanica](https://github.com/alexdeuna/DIO/blob/master/02%20-%20Database%20Experience/Mecanica.png?raw=true "Mecanica")
