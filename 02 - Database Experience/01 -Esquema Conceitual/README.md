@@ -6,7 +6,7 @@
 - Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
 - Entrega – Possui status e código de rastreio;
 
-![Modelo](https://github.com/alexdeuna/DIO/blob/master/02%20-%20Database%20Experience/E-commerce.png?raw=true "Modelo")
+![Modelo](https://github.com/alexdeuna/DIO/blob/master/02%20-%20Database%20Experience/01%20-Esquema%20Conceitual/E-commerce.png "Modelo")
 
 
 ### Desafio - Oficina Mecânica
@@ -20,4 +20,4 @@
 - Os mecânicos possuem código, nome, endereço e especialidade
 - Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 
-![Mecanica](https://github.com/alexdeuna/DIO/blob/master/02%20-%20Database%20Experience/Mecanica.png?raw=true "Mecanica")
+![Mecanica](https://github.com/alexdeuna/DIO/blob/master/02%20-%20Database%20Experience/01%20-Esquema%20Conceitual/Mecanica.png "Mecanica")
