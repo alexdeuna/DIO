@@ -14,7 +14,7 @@ setup(
     description="Meu primeiro pacote - Olá Mundo!",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/alexdeuna/DIO/tree/master/03-Python/pacote"
+    url="https://github.com/alexdeuna/DIO/tree/master/03-Python/pacote",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
